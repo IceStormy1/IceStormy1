@@ -65,6 +65,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IceStormy1/IceStormy1/output/snake.svg" alt="Snake animation" />
-
-###
+<a href="https://github.com/itaditya#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/IceStormy1/IceStormy1/output/snake-dark.svg" alt="Snake animation" /> 
+</a>
+<a href="https://github.com/itaditya#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/IceStormy1/IceStormy1/output/snake.svg" alt="Snake animation" />
+</a>
